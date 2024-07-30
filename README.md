@@ -80,9 +80,5 @@ pip3 install spacy_ixakat --user
 
 ## Installation for Google Colaboratory
 
-```py
-!pip install spacy_ixakat
-```
-
 Try [notebook](https://colab.research.google.com/github/KoichiYasuoka/spaCy-ixaKat/blob/master/spacy_ixakat.ipynb).
 
